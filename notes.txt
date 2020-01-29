@@ -1,0 +1,3 @@
+1. 屏蔽一切网站或者至少主流资讯网站的引入其他页面链接
+2. Web Extension for Firefox & Chrome
+3. 可以採用阻断和删去a和其他链接来实现
